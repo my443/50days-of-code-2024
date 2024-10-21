@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "freezer-console", "freezer-console\freezer-console.csproj", "{08B62973-0B27-4A0C-93BF-F90A462C0882}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Freezer_Tests", "Freezer_Tests\Freezer_Tests.csproj", "{E9EAEA2D-D323-40A0-AF14-CAF43B6FB321}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08B62973-0B27-4A0C-93BF-F90A462C0882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08B62973-0B27-4A0C-93BF-F90A462C0882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08B62973-0B27-4A0C-93BF-F90A462C0882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08B62973-0B27-4A0C-93BF-F90A462C0882}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9EAEA2D-D323-40A0-AF14-CAF43B6FB321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9EAEA2D-D323-40A0-AF14-CAF43B6FB321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9EAEA2D-D323-40A0-AF14-CAF43B6FB321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9EAEA2D-D323-40A0-AF14-CAF43B6FB321}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {293C242F-32E8-4F3D-BA93-6B396F9EA00C}
+	EndGlobalSection
+EndGlobal
