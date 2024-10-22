@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace freezer_console.Models
 {
-    public class Connection
+    public class Item
     {
         public int Id { get; set; }
-        public int ContainerId{ get; set; }
-        public int ContainsId {  get; set; }
-        public int TypeId { get; set; }
+        public string Name { get; set; }
+        public string Description { get; set; }
     }
 }
